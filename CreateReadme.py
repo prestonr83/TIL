@@ -55,8 +55,9 @@ def get_tils(category):
     til_files = [x for x in os.listdir(category)]
     titles = []
     for filename in til_files:
-        fullname = os.path.join(category, filename)
-        if (os.path.isfile(fullname)) and fullname.endswith('.md'):
+        fullname = "{}/{}".format(category,filename)
+        pathname = os.path.join(category, filename)
+        if (os.path.isfile(pathname)) and fullname.endswith('.md'):
             title = get_title(fullname)
             titles.append((title, fullname))
     return titles

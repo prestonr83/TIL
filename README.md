@@ -17,7 +17,7 @@ _1 TILs and counting..._
 
 ### Sql
 
-- [Get Backup or Restore Status](SQL\get-backup-or-restore-status.md)
+- [Get Backup or Restore Status](SQL/get-backup-or-restore-status.md)
 
 ## About
 
