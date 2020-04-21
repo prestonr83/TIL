@@ -21,10 +21,10 @@ The following example would fail validation.
         {
             "type":"hostnameBindings",
             "name":"[parameters('customHostname')[copyindex()]]",
-            "copy": [
-                "name" : "bindings",
-                "count" : 2
-            ],
+            "copy": {
+                "name":"bindings",
+                "count":2
+            },
             "apiVersion":"2016-03-01",
             "location":"[resourceGroup().location]",
             "properties":{
@@ -58,10 +58,10 @@ Instead should be done like so
 {
     "type":"Microsoft.Web/sites/hostnameBindings",
     "name":"[concat(parameters('webAppName'), '/', parameters('customHostname')[copyIndex()])]",
-    "copy": [
-        "name": "bindings"
-        "count" : 2
-    ],
+    "copy": {
+        "name":"bindings",
+        "count":2
+    },
     "apiVersion":"2016-03-01",
     "location":"[resourceGroup().location]",
     "properties":{
