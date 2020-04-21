@@ -5,15 +5,20 @@
 A collection of concise write-ups on small things I learn day to day across a
 variety of languages and technologies.
 
-_1 TILs and counting..._
+_2 TILs and counting..._
 
 ---
 
 ### Categories
 
+* [Azure](#Azure)
 * [Sql](#SQL)
 
 ---
+
+### Azure
+
+- [Copying nested resources in ARM templates](Azure/arm-nested-resource-copy.md)
 
 ### Sql
 
