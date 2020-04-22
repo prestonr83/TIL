@@ -5,7 +5,7 @@
 A collection of concise write-ups on small things I learn day to day across a
 variety of languages and technologies.
 
-_2 TILs and counting..._
+_3 TILs and counting..._
 
 ---
 
@@ -18,6 +18,7 @@ _2 TILs and counting..._
 
 ### Azure
 
+- [Appservice Vnet Integration](Azure/appservice-vnet-integration.md)
 - [Copying nested resources in ARM templates](Azure/arm-nested-resource-copy.md)
 
 ### Sql
