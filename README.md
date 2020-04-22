@@ -5,13 +5,14 @@
 A collection of concise write-ups on small things I learn day to day across a
 variety of languages and technologies.
 
-_3 TILs and counting..._
+_4 TILs and counting..._
 
 ---
 
 ### Categories
 
 * [Azure](#Azure)
+* [Powershell](#Powershell)
 * [Sql](#SQL)
 
 ---
@@ -20,6 +21,10 @@ _3 TILs and counting..._
 
 - [Appservice Vnet Integration](Azure/appservice-vnet-integration.md)
 - [Copying nested resources in ARM templates](Azure/arm-nested-resource-copy.md)
+
+### Powershell
+
+- [PowershellGet Package Management](Powershell/add-powershellget.md)
 
 ### Sql
 
