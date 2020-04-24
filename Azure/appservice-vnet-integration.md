@@ -4,7 +4,7 @@
 
 When using gateway integration if you need to peer to another vnet the following must be configured.
 
-**!! Any changes to routes in the vnet integration requires a Network Sync performed on the App plan !!**
+**!! Any changes to routes in the vnet integration may require a Network Sync performed on the App plan !!**
 
 ### Source Vnet
 Ensure that the peering has the following set

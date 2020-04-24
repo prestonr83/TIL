@@ -5,7 +5,7 @@
 A collection of concise write-ups on small things I learn day to day across a
 variety of languages and technologies.
 
-_4 TILs and counting..._
+_5 TILs and counting..._
 
 ---
 
@@ -19,6 +19,7 @@ _4 TILs and counting..._
 
 ### Azure
 
+- [Application Insights stopped reporting metrics](Azure/appinsights-stopped-metrics.md)
 - [Appservice Vnet Integration](Azure/appservice-vnet-integration.md)
 - [Copying nested resources in ARM templates](Azure/arm-nested-resource-copy.md)
 
