@@ -5,7 +5,7 @@
 A collection of concise write-ups on small things I learn day to day across a
 variety of languages and technologies.
 
-_5 TILs and counting..._
+_6 TILs and counting..._
 
 ---
 
@@ -30,6 +30,7 @@ _5 TILs and counting..._
 ### Sql
 
 - [Get Backup or Restore Status](SQL/get-backup-or-restore-status.md)
+- [List all Database filenames and locations](SQL/list-all-db-file-locations.md)
 
 ## About
 
