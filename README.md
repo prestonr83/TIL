@@ -5,7 +5,7 @@
 A collection of concise write-ups on small things I learn day to day across a
 variety of languages and technologies.
 
-_6 TILs and counting..._
+_7 TILs and counting..._
 
 ---
 
@@ -26,6 +26,7 @@ _6 TILs and counting..._
 ### Powershell
 
 - [PowershellGet Package Management](Powershell/add-powershellget.md)
+- [Windows Update Information](Powershell/windows-update-information.md)
 
 ### Sql
 
