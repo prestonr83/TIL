@@ -17,3 +17,15 @@ Ctrl + Shift + W
 
 ### Quick Open
 Ctrl + P
+
+### Open active file in new instance
+Ctrl + K O
+
+### Copy path of active file
+Ctrl + K P
+
+### Reveal active file in Explorer
+Ctrl + K R
+
+### Go to File
+Ctrl + P
