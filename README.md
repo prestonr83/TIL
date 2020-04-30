@@ -15,7 +15,7 @@ _10 TILs and counting..._
 * [Misc](#Misc)
 * [Powershell](#Powershell)
 * [Sql](#SQL)
-* [Vs code](#VS Code)
+* [Vscode](#VSCode)
 
 ---
 
@@ -40,9 +40,9 @@ _10 TILs and counting..._
 - [Get Backup or Restore Status](SQL/get-backup-or-restore-status.md)
 - [List all Database filenames and locations](SQL/list-all-db-file-locations.md)
 
-### Vs code
+### Vscode
 
-- [VSCode Shortcuts](VS Code/vscode-select-all-matches.md)
+- [VSCode Shortcuts](VSCode/vscode-select-all-matches.md)
 
 ## About
 
