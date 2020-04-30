@@ -73,8 +73,7 @@ $AutoUpdateDays=@{
 }
 
 
-Function Get-WindowsUpdateConfig
-{
+Function Get-WindowsUpdateConfig{
     $AUSettings = (New-Object -com "Microsoft.Update.AutoUpdate").Settings
     $AUObj = New-Object -TypeName System.Object
 

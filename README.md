@@ -5,13 +5,14 @@
 A collection of concise write-ups on small things I learn day to day across a
 variety of languages and technologies.
 
-_7 TILs and counting..._
+_8 TILs and counting..._
 
 ---
 
 ### Categories
 
 * [Azure](#Azure)
+* [Misc](#Misc)
 * [Powershell](#Powershell)
 * [Sql](#SQL)
 
@@ -22,6 +23,10 @@ _7 TILs and counting..._
 - [Application Insights stopped reporting metrics](Azure/appinsights-stopped-metrics.md)
 - [Appservice Vnet Integration](Azure/appservice-vnet-integration.md)
 - [Copying nested resources in ARM templates](Azure/arm-nested-resource-copy.md)
+
+### Misc
+
+- [Reset windows update](Misc/reset-windows-update.md)
 
 ### Powershell
 
