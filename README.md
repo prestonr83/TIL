@@ -5,7 +5,7 @@
 A collection of concise write-ups on small things I learn day to day across a
 variety of languages and technologies.
 
-_8 TILs and counting..._
+_10 TILs and counting..._
 
 ---
 
@@ -15,6 +15,7 @@ _8 TILs and counting..._
 * [Misc](#Misc)
 * [Powershell](#Powershell)
 * [Sql](#SQL)
+* [Vs code](#VS Code)
 
 ---
 
@@ -27,6 +28,7 @@ _8 TILs and counting..._
 ### Misc
 
 - [Reset windows update](Misc/reset-windows-update.md)
+- [Tools](Misc/tools.md)
 
 ### Powershell
 
@@ -37,6 +39,10 @@ _8 TILs and counting..._
 
 - [Get Backup or Restore Status](SQL/get-backup-or-restore-status.md)
 - [List all Database filenames and locations](SQL/list-all-db-file-locations.md)
+
+### Vs code
+
+- [VSCode Shortcuts](VS Code/vscode-select-all-matches.md)
 
 ## About
 
