@@ -5,7 +5,7 @@
 A collection of concise write-ups on small things I learn day to day across a
 variety of languages and technologies.
 
-_10 TILs and counting..._
+_12 TILs and counting..._
 
 ---
 
@@ -27,11 +27,13 @@ _10 TILs and counting..._
 
 ### Misc
 
+- [Reading](Misc/reading.md)
 - [Reset windows update](Misc/reset-windows-update.md)
 - [Tools](Misc/tools.md)
 
 ### Powershell
 
+- [Create Storage Space](Powershell/create-storage-space.md)
 - [PowershellGet Package Management](Powershell/add-powershellget.md)
 - [Windows Update Information](Powershell/windows-update-information.md)
 
