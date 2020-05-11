@@ -5,7 +5,7 @@
 A collection of concise write-ups on small things I learn day to day across a
 variety of languages and technologies.
 
-_12 TILs and counting..._
+_13 TILs and counting..._
 
 ---
 
@@ -24,6 +24,7 @@ _12 TILs and counting..._
 - [Application Insights stopped reporting metrics](Azure/appinsights-stopped-metrics.md)
 - [Appservice Vnet Integration](Azure/appservice-vnet-integration.md)
 - [Copying nested resources in ARM templates](Azure/arm-nested-resource-copy.md)
+- [Create SPN and Set Permissions for ADO](Azure/create-spn.md)
 
 ### Misc
 
