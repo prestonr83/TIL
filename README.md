@@ -5,7 +5,7 @@
 A collection of concise write-ups on small things I learn day to day across a
 variety of languages and technologies.
 
-_13 TILs and counting..._
+_14 TILs and counting..._
 
 ---
 
@@ -35,6 +35,7 @@ _13 TILs and counting..._
 ### Powershell
 
 - [Create Storage Space](Powershell/create-storage-space.md)
+- [Get Virtual Disks by Node in Failover cluster](Powershell/get-virtualdisks-in-cluster.md)
 - [PowershellGet Package Management](Powershell/add-powershellget.md)
 - [Windows Update Information](Powershell/windows-update-information.md)
 
