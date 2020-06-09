@@ -5,7 +5,7 @@
 A collection of concise write-ups on small things I learn day to day across a
 variety of languages and technologies.
 
-_15 TILs and counting..._
+_16 TILs and counting..._
 
 ---
 
@@ -42,6 +42,7 @@ _15 TILs and counting..._
 ### Sql
 
 - [Find blocking spids/queries](SQL/find-root-blockers.md)
+- [Find connections and running queries](SQL/get-running-queries.md)
 - [Get Backup or Restore Status](SQL/get-backup-or-restore-status.md)
 - [List all Database filenames and locations](SQL/list-all-db-file-locations.md)
 
