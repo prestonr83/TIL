@@ -9,3 +9,4 @@ This is a list of misc tools and links I use day to day.
 * [Windows PowerToys](https://github.com/microsoft/PowerToys)
 * [Greenshot](https://getgreenshot.org/)
 * [LICEcap](https://www.cockos.com/licecap/)
+* [SQL First Responder Kit](https://www.brentozar.com/first-aid/)

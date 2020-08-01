@@ -2,7 +2,7 @@
 
 ## List all active connections
 ```sql
-sp_who2
+sp_who2 active
 ```
 
 ## Get full query text for SPID
