@@ -5,13 +5,14 @@
 A collection of concise write-ups on small things I learn day to day across a
 variety of languages and technologies.
 
-_18 TILs and counting..._
+_19 TILs and counting..._
 
 ---
 
 ### Categories
 
 * [Azure](#Azure)
+* [Media](#Media)
 * [Misc](#Misc)
 * [Powershell](#Powershell)
 * [Sql](#SQL)
@@ -25,6 +26,9 @@ _18 TILs and counting..._
 - [Appservice Vnet Integration](Azure/appservice-vnet-integration.md)
 - [Copying nested resources in ARM templates](Azure/arm-nested-resource-copy.md)
 - [Create SPN and Set Permissions for ADO](Azure/create-spn.md)
+
+### Media
+
 
 ### Misc
 
@@ -47,6 +51,7 @@ _18 TILs and counting..._
 - [Get Backup or Restore Status](SQL/get-backup-or-restore-status.md)
 - [Get Waiting Tasks](SQL/waiting-tasks.md)
 - [List all Database filenames and locations](SQL/list-all-db-file-locations.md)
+- [SQL Diagnostic Connection](SQL/sql-diagnostic-connection.md)
 
 ### Vscode
 
