@@ -5,13 +5,14 @@
 A collection of concise write-ups on small things I learn day to day across a
 variety of languages and technologies.
 
-_19 TILs and counting..._
+_20 TILs and counting..._
 
 ---
 
 ### Categories
 
 * [Azure](#Azure)
+* [Dsc](#DSC)
 * [Media](#Media)
 * [Misc](#Misc)
 * [Powershell](#Powershell)
@@ -26,6 +27,10 @@ _19 TILs and counting..._
 - [Appservice Vnet Integration](Azure/appservice-vnet-integration.md)
 - [Copying nested resources in ARM templates](Azure/arm-nested-resource-copy.md)
 - [Create SPN and Set Permissions for ADO](Azure/create-spn.md)
+
+### Dsc
+
+- [Reset DSC Local Configuration Manager](DSC/reset-dsc.md)
 
 ### Media
 
