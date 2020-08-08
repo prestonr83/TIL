@@ -30,12 +30,13 @@ Output settings for ADO
 
 ```powershell
 # Generate ADO Settings
+$ctx = get-azcontext
 $adoSettings = [PSCustomObject]@{
-    'Subscription ID' = $subID
-    'Subscription Name' = $sub.Subscription.name
+    'Subscription ID' = $ctx.Subscription.Id
+    'Subscription Name' = $ctx.Subscription.Name
     'Service Principal Id' = $spn.ApplicationId
     'Service Principal Key' = $password
-    'Tenant ID' = $sub.Subscription.TenantId
+    'Tenant ID' = $ctx.Subscription.TenantId
 }
 
 # Output ADO Settings
