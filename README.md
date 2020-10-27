@@ -5,7 +5,7 @@
 A collection of concise write-ups on small things I learn day to day across a
 variety of languages and technologies.
 
-_20 TILs and counting..._
+_22 TILs and counting..._
 
 ---
 
@@ -55,6 +55,8 @@ _20 TILs and counting..._
 - [Find connections and running queries](SQL/get-running-queries.md)
 - [Get Backup or Restore Status](SQL/get-backup-or-restore-status.md)
 - [Get Waiting Tasks](SQL/waiting-tasks.md)
+- [List CLR References](SQL/list-clr-ref.md)
+- [List User Role Assignments](SQL/list-user-roles.md)
 - [List all Database filenames and locations](SQL/list-all-db-file-locations.md)
 - [SQL Diagnostic Connection](SQL/sql-diagnostic-connection.md)
 
