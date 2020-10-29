@@ -5,7 +5,7 @@
 A collection of concise write-ups on small things I learn day to day across a
 variety of languages and technologies.
 
-_22 TILs and counting..._
+_25 TILs and counting..._
 
 ---
 
@@ -43,10 +43,13 @@ _22 TILs and counting..._
 
 ### Powershell
 
+- [Azure Rest API Authentication Using AZ Profile Credentials](Powershell/azure-rest-azprofile.md)
 - [Create Storage Space](Powershell/create-storage-space.md)
+- [Enable TLS 1.2 Support in Powershell script](Powershell/tls-support.md)
 - [Get All Disk Info for Storage Node](Powershell/get-diskinfo.md)
 - [Get Virtual Disks by Node in Failover cluster](Powershell/get-virtualdisks-in-cluster.md)
 - [PowershellGet Package Management](Powershell/add-powershellget.md)
+- [Simple Retry Logic Loop](Powershell/simple-retry-logic.md)
 - [Windows Update Information](Powershell/windows-update-information.md)
 
 ### Sql
