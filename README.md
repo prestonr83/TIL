@@ -5,7 +5,7 @@
 A collection of concise write-ups on small things I learn day to day across a
 variety of languages and technologies.
 
-_25 TILs and counting..._
+_28 TILs and counting..._
 
 ---
 
@@ -54,8 +54,11 @@ _25 TILs and counting..._
 
 ### Sql
 
+- [Add Login Mapping to Linked Server](SQL\add-login-mapping-for-linked-server.md)
+- [Detailed Linked Server Report](SQL\detailed-link-server-report.md)
 - [Find blocking spids/queries](SQL/find-root-blockers.md)
 - [Find connections and running queries](SQL/get-running-queries.md)
+- [Find SQL Linked Server Depdendencies](SQL\find-linked-dependencies.md)
 - [Get Backup or Restore Status](SQL/get-backup-or-restore-status.md)
 - [Get Waiting Tasks](SQL/waiting-tasks.md)
 - [List CLR References](SQL/list-clr-ref.md)
