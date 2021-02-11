@@ -11,3 +11,4 @@ This is a list of misc tools and links I use day to day.
 * [Greenshot](https://getgreenshot.org/)
 * [LICEcap](https://www.cockos.com/licecap/)
 * [SQL First Responder Kit](https://www.brentozar.com/first-aid/)
+* [dbatools](https://dbatools.io/)
