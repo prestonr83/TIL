@@ -42,7 +42,7 @@ function Get-Tils($category){
             $title = Get-Title $filename.FullName
             $titles += [PSCustomObject]@{
                 title = $title
-                filename = $filename.FullName
+                filename = "$($filename.Directory.Name)/$($filename.Name)"
             }
         }
     }
