@@ -52,3 +52,12 @@ WITH DEFAULT_SCHEMA = dbo;
 ALTER ROLE dbmanager ADD MEMBER [name@domain.com]; 
 ALTER ROLE loginmanager ADD MEMBER [name@domain.com]; 
 ```
+
+## Azure Managed Identity
+```sql
+CREATE USER [<identity-name>] FROM EXTERNAL PROVIDER;
+ALTER ROLE db_datareader ADD MEMBER [<identity-name>];
+ALTER ROLE db_datawriter ADD MEMBER [<identity-name>];
+ALTER ROLE db_ddladmin ADD MEMBER [<identity-name>];
+```
+*If using slots <identity-name> would be \<app-name\>/slots/\<slot-name\>*
